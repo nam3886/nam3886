@@ -1,4 +1,4 @@
-# Hi, I’m Nam!   <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="128px" height="64px" alt="typing">
+# Hi, I’m Nam!   <img src="https://media.giphy.com/media/h7deZA51Ru9pwzlz0C/giphy.gif" width="128px" height="64px" alt="typing">
 <a href=https://www.linkedin.com/in/nam3886/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=nam3886&color=blue">
 
 👨 My name is Nam and I'm studying Computer Science at University of Technology and Education. I'm from Vietnam and my goal is to become a Software Engineer.
